@@ -1,5 +1,6 @@
 # ABIDE-behavioural-fMRI-ML
-Predicting autism using behavioural and fMRI data
+
+Predicting autism using behavioural and fMRI data. <br>
 Code used as the capstone project to graduate from the EPFL extension school.
 
 ---- README ----
