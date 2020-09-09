@@ -8,6 +8,7 @@ ABIDE2_EDA_BEHAVIOURAL: in this notebook I explore the behavioural data of the A
 * Behavioural_df1_abide2 : notebook with the models of the first dataset with the SRS/BRIEF/IQ tests
 * Behavioural_df2_abide2 : notebook with the models of the second dataset with the SRS/RSBR tests
 * Behavioural_df3_SRS_only : notebook with the models of the third dataset with the SRS test
+
 Each of these three notebooks is composed of a short exploration, decision tree, random forest, kNN and SVM models.
 
 fMRI_ABIDE1_download_transform: is where I download the data and transform them to use them in the EDA and the models part. 
