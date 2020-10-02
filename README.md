@@ -18,3 +18,6 @@ fMRI_ABIDE1_download_transform: is where I download the data and transform them 
 ABIDE1_EDA_fMRI: Exploration of the fMRI data.
 
 fMRI_Models: The models of the datasets created in the download_transform notebook. Its composed of linearSVC/SVM models.
+
+
+I am currently reviewing and modfying the code progressively to make it more efficient and cleaner based on the feedback I had, modified codes to come soon!
